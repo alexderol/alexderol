@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... erolldemir45@gmail.com
-<img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/css/css.png" weight="25" height="25">
+[<img widht="22" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" align="left" />][LinkedIn]
 
 <!---
 alexderol/alexderol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
